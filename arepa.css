@@ -1,0 +1,33 @@
+.Titulo {
+    font-family: Montserrat, Black;
+    color: #FFB300;
+    font-size: 89px;
+    text-align: left
+
+}
+
+.Paragrafo {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 21px;
+    color: black;
+    text-align: left
+}
+
+.Access {
+    display: flex;
+    align-items: baseline;
+    justify-content: right;
+    
+    
+}
+#about {
+    color: #FFB300;
+}
+#rico {
+    color:#FFB300;
+
+}
+
+#mood {
+    color:#FFB300;
+}
